@@ -3,6 +3,9 @@
 
 https://awale398.github.io/javascript-portfolio/
 
+
+I created this website using html , css and javascript with email.js . The website is mobile responsive and tablet responsive as well 
+
 # Abdiawal's Portfolio
 
 Welcome to my portfolio project! This repository showcases my skills, projects, and expertise in software development, web design, and UI/UX. Dive in to explore what I do and how I can contribute to creating impactful solutions.
